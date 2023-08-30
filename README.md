@@ -16,6 +16,8 @@ Here are some of my projects as a student of QA.
 
 https://miro.com/app/board/uXjVPvR5kGQ=/?share_link_id=969137486748
 
+2. Questions to requirements (user-stories) https://docs.google.com/spreadsheets/d/1wVwxVt6Y_gsgqSwQEPTPyHUioSpc-YuH/edit?usp=sharing&ouid=105415505288474678882&rtpof=true&sd=true
+
 
 
 Добавьте секцию с контактной информацией. В этом разделе стоит указать свой email, ссылку на профиль LinkedIn (если у вас есть), ссылку на личный сайт (если у вас есть) и т. п.
