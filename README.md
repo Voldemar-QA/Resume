@@ -27,8 +27,8 @@ https://docs.google.com/document/d/15NyeihxZqBdsB-HK1iCeAiLTiXJuv3SR74KBVRXuDeI/
 5. Decision table for an insurance program. Conditions:
 The life insurance program is provided to all employees. For those who have worked in a company for more than five years, the program costs 150 USD. If an employee has worked for less than five years, it costs 250 USD. Smokers must pay an additional 25% each year. Employees with 10+ years of experience get a 10% discount, and those with 20 years of experience earn a 15% discount.
 Insurance can have additional packages: 
-- Cancer protection: +100 USD 
-- Family pack: +150 USD 
+Cancer protection: +100 USD 
+Family pack: +150 USD 
 If a person buys car insurance for 50 USD, they get an additional 10% discount.
 Employees who ordered the insurance previously but missed payments cannot be reinsured.
 https://docs.google.com/spreadsheets/d/1Bk-55F_so79uQc4V0JIhAN6HgyNEZq4RyPuIwHgHehY/edit?usp=sharing
