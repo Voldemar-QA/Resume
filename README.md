@@ -12,8 +12,7 @@ All this time I was busy in professional photo and video, shooting and editing (
 
 Here are some significant artifacts from my projects as a student of QA.
 
-1. Mind-map for online ticket booking application ticket.railway.ge
-https://miro.com/app/board/uXjVPvR5kGQ=/?share_link_id=969137486748
+1. [Mind-map] (https://miro.com/app/board/uXjVPvR5kGQ=/?share_link_id=969137486748) for online ticket booking application [ticket.railway.ge] (https://ticket.railway.ge).
 
 2. Questions to requirements (several user-stories) 
 https://docs.google.com/spreadsheets/d/1wVwxVt6Y_gsgqSwQEPTPyHUioSpc-YuH/edit?usp=sharing&ouid=105415505288474678882&rtpof=true&sd=true
