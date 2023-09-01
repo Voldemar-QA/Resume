@@ -8,8 +8,8 @@ Before autumn 2022 I worked for 2 years in **CNC machining**, mastered **program
 
 Before the pandemic for 20 years I had been a tour-leader, climbing guide and sales manager in an adventure **travel company** operating **worldwide**. 🌏 There I gained and polished valuable experience and **soft skills** necessary to lead clients to the summit and then return them home safe and happy. At the same time I became profi in numerous **booking systems**, **advertisement** and **communication** with providers of services. 
 
-![Climb to Mt Elbrus](https://drive.google.com/file/d/1M9L2siN0n61-U6bUl-njC3W6WAmbEx-C/view?usp=sharing)
- 
+![Climb to Mt Elbrus](https://github.com/Voldemar-QA/Images/blob/main/Elbrus-climb.jpg "Climb to Mt Elbrus, 5642 m. Classic route from the South.")
+
 All this time I was busy in **professional photo and video**, shooting and editing (in Photoshop, Premiere, Sony Vegas, ACD Systems, RAW-converters etc). Some of my works are in museums and galleries. 🎞
 
 Here are some **significant artifacts** from my projects as a student of QA. 👨‍🎓
@@ -39,4 +39,4 @@ Telegram / Whatsapp +995 599 065 385<br>
 
 Cheers!
 
-![CNC G-code program visualization](https://github.com/Voldemar-QA/Skypro1/assets/143604821/a6eb2ba7-f57f-4b06-819a-c74dd4f91c1e "CNC G-code program visualization")
+![CNC G-code program visualization](https://github.com/Voldemar-QA/Images/blob/main/Sinutrain.jpg "CNC G-code program visualization")
