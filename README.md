@@ -38,3 +38,5 @@ Telegram / Whatsapp +995 599 065 385<br>
 [Linkedin](https://www.linkedin.com/in/vladimir-stoliarov-610422234 "Vladimir Stoliarov at Linkedin")
 
 Cheers!
+
+![CNC G-code program visualization](https://github.com/Voldemar-QA/Skypro1/assets/143604821/a6eb2ba7-f57f-4b06-819a-c74dd4f91c1e "CNC G-code program visualization")
