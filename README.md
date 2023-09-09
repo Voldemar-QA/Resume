@@ -30,7 +30,9 @@ Here are some **significant artifacts** from my projects as a student of QA. ðŸ‘
 
 8. Regression [***testing estimation***](https://docs.google.com/document/d/121PTnPtiYDMQHKdg2vwMIe98cY84NGXa/edit?usp=sharing&ouid=105415505288474678882&rtpof=true&sd=true "Work breakdow structure (WBS) and other techniques") for the [learn.epam.com](https://learn.epam.com "EPAM learning platform") application, based on the [check-list](https://docs.google.com/spreadsheets/d/18Yxt6bXUFRgljXRC4knh9G29laaVANsGyBxXDw6erb8/edit#gid=2133337874 "Regression check-list for EPAM learning platform") given above.
 
-9. [***Postman collection***](https://drive.google.com/file/d/1ySB6abp5n4q_fCeEB6rrCR6QD_h-WM16/view?usp=sharing "Testing of API") for API testing of [yandex-weather](https://yandex.com.ge/weather "Weather forecast") application. The key necessary for sending requests can be got [here](https://developer.tech.yandex.ru/?from=commercial "Instructions are in Russian"). 
+9. [***Postman collection***](https://drive.google.com/file/d/1ySB6abp5n4q_fCeEB6rrCR6QD_h-WM16/view?usp=sharing "Testing of API") for API testing of [yandex-weather](https://yandex.com.ge/weather "Weather forecast") application. The key necessary for sending requests can be obtained [here](https://developer.tech.yandex.ru/?from=commercial "Instructions are in Russian").
+
+10. [***Complex testing project***](https://drive.google.com/file/d/15DmbPPI3zHDn-pAFrDMnwLQqddWsCsy9/view?usp=sharing "Full-fledged testing project") for [skyeng.ru](https://skyeng.ru/ "Skyeng learning platform") (in Russian language). Includes testing of requirements, decomposition, planning, functional and non-functional testing, testing of API in Postman, bug-reporting, test results reporting and analysis.
 
 I'm hard-working, fast-learning, attentive to details and open to collaboration. In case of any interest please contact me:<br>
 Email wildvolik@gmail.com <br>
