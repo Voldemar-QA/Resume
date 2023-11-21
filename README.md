@@ -35,6 +35,7 @@ Here are some **significant artifacts** from my projects as a student of QA. ðŸ‘
 10. [***Complex testing project***](https://drive.google.com/file/d/15DmbPPI3zHDn-pAFrDMnwLQqddWsCsy9/view?usp=sharing "Full-fledged testing project") for [skyeng.ru](https://skyeng.ru/ "Skyeng learning platform") (in Russian language). Includes testing of requirements, decomposition, planning, functional and non-functional testing, testing of API in Postman, bug-reporting, test results reporting and analysis.
 
 My English level is C1, confirmed by EPAM testing on 20.11.23 :
+
 ![English level assessment](https://github.com/Voldemar-QA/Images/blob/main/English7.jpg "English level assessment - C1")
 
 I'm hard-working, fast-learning, attentive to details and open to collaboration. In case of any interest please contact me:<br>
