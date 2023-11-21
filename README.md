@@ -2,7 +2,7 @@
 
 I'm a **QA intern** practicing manual testing, confident in creation of check-lists, test-cases, bug-reports and other artifacts.
 
-Not only **black-box testing** of an interface but also **API**, **SQL-DB** and some **load testing** as well I'm familiar with. Currently I **learn automation**. My instruments: Charles, Checkvist, Confluence, DBeaver, Fiddler, Jira, Jmetr, Miro, Mockoon, Qase, Pairwise, Pict, PostgreSQL, Postman, Powershell, Sitechco, SoapUI, Visual Studio Code and more. 🔍
+Not only **black-box testing** of an interface but also **API**, **SQL-DB** and some **load testing** as well I'm familiar with. Currently I **learn automation**. My instruments: Android Studio, Charles, Checkvist, Confluence, DBeaver, Fiddler, Jira, Jmeter, Miro, Mockoon, Qase, Pairwise, Pict, PostgreSQL, Postman, Powershell, Sitechco, SoapUI, Visual Studio Code and more. 🔍
 
 Before autumn 2022 I worked for 2 years in **CNC machining**, mastered **programming in G-code** and procurement of different sofisticated metal-cutting tools. 😎
 
@@ -33,6 +33,12 @@ Here are some **significant artifacts** from my projects as a student of QA. �
 9. [***Postman collection***](https://drive.google.com/file/d/1ySB6abp5n4q_fCeEB6rrCR6QD_h-WM16/view?usp=sharing "Testing of API") for API testing of [yandex-weather](https://yandex.com.ge/weather "Weather forecast") application. The key necessary for sending requests can be obtained [here](https://developer.tech.yandex.ru/?from=commercial "Instructions are in Russian").
 
 10. [***Complex testing project***](https://drive.google.com/file/d/15DmbPPI3zHDn-pAFrDMnwLQqddWsCsy9/view?usp=sharing "Full-fledged testing project") for [skyeng.ru](https://skyeng.ru/ "Skyeng learning platform") (in Russian language). Includes testing of requirements, decomposition, planning, functional and non-functional testing, testing of API in Postman, bug-reporting, test results reporting and analysis.
+
+My English level is C1:
+![English level assessment1](https://github.com/Voldemar-QA/Images/blob/main/English1.jpg "English level assessment - 1")
+![English level assessment2](https://github.com/Voldemar-QA/Images/blob/main/English2.jpg "English level assessment - 2")
+![English level assessment3](https://github.com/Voldemar-QA/Images/blob/main/English3.jpg "English level assessment - 3")
+![English level assessment4](https://github.com/Voldemar-QA/Images/blob/main/English4.jpg "English level assessment - 4")
 
 I'm hard-working, fast-learning, attentive to details and open to collaboration. In case of any interest please contact me:<br>
 Email wildvolik@gmail.com <br>
