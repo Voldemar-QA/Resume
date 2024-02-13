@@ -1,6 +1,6 @@
 ### **Hi there!** 🖐 ###
 
-I'm a **QA intern** practicing manual testing, confident in creation of check-lists, test-cases, bug-reports and other artifacts.
+I'm a **Junior QA** in <Epam> practicing manual testing, confident in creation of check-lists, test-cases, bug-reports and other artifacts.
 
 Not only **black-box testing** of an interface but also **API**, **SQL-DB** and some **load testing** as well I'm familiar with. Currently I **learn automation**. My instruments: Android Studio, Charles, Checkvist, Confluence, DBeaver, Fiddler, Jira, Jmeter, Miro, Mockoon, Qase, Pairwise, Pict, PostgreSQL, Postman, Powershell, Sitechco, SoapUI, Visual Studio Code and more. 🔍
 
